@@ -33,4 +33,6 @@ olleH 10642
 
 ## Workspace Reference
 
+A workspace is a collection of modules on disk that are used as the main modules
+
 - https://go.dev/ref/mod#workspaces
